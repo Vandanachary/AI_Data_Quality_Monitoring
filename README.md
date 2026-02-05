@@ -1,4 +1,4 @@
-# AI-Based Data Quality Monitoring System
+# AI-Based Data Quality Monitoring System 📊
 
 This project is an **end-to-end AI-based data quality monitoring application** that combines  
 **cloud machine learning predictions** with **statistical data analysis and interactive dashboards** in a single Streamlit web app.
